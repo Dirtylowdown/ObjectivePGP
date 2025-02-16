@@ -1,3 +1,0 @@
-null void error 
-
-@end

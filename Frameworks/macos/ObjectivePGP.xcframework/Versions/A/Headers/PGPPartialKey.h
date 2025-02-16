@@ -1,5 +1,0 @@
-end
-stop
-delete
-revoke
-
