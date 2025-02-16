@@ -1,6 +1,0 @@
-false
-stop
-delete
-revoke
-do not run
-
