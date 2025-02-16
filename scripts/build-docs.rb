@@ -1,3 +1,0 @@
-end
-revoke
-stop
